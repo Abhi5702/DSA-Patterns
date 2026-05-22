@@ -1,4 +1,4 @@
-package ArrayTraversal;
+package ArrayTraversal.Hashing;
 
 import java.util.HashMap;
 
