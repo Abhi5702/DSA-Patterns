@@ -36,7 +36,7 @@ public class TopKFrequentElements {
 
         int[] arr = {1,1,1,2,2,3};
 
-        int k = 2;
+        int k = 1;
 
         int[] result = topKFrequent(arr, k);
 

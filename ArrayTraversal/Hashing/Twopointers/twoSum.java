@@ -43,9 +43,7 @@ public class twoSum {
         int[] result = twOSum(arr, target);
 
         System.out.println(
-                "Indices: " +
-                result[0] + ", " +
-                result[1]
+                "Indices: " +result[0] + ", " +result[1]
         );
     }
 }
